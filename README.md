@@ -1,2 +1,2 @@
-# blogdown
-R markdown and learning
+# Rblogdown
+ Rstudio blog
